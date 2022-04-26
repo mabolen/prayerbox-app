@@ -3,7 +3,7 @@ import './App.css';
 
 const About = () => {
   return (
-    <div id='about'>
+    <div id='about' className='about'>
         <div>
             <h2>About</h2>
             <p>This is the section to write what this cafe is all about and why it exists.</p>
